@@ -46,3 +46,5 @@ public class ClosedGroup extends Group implements Serializable{
 	}
 
 }
+
+//Artemis Dara-2025
