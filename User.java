@@ -229,8 +229,6 @@ public class User implements Serializable{
 			System.out.println("----------------------------");
 		}
 		
-		//Version 2 new methods!
-		
 		//method to find the resent post of a user and his/her friends
 		public void resentPost()
 		{
@@ -278,10 +276,10 @@ public class User implements Serializable{
 				
 				Collections.sort(suggestedFriends); //no comparator because suggestedFriends has string values	
 			}
+
 			
 			return suggestedFriends;
 		}
 		
-		
 }
-		
+//Artemis Dara-2025		
