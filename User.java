@@ -257,7 +257,7 @@ public class User implements Serializable{
 			}
 		}
 
-		//Method that suggests friends. (akoloutha trigoniki kleistotita)
+		//Method that suggests friends.
 		public ArrayList<String> suggestedFriends() {
 			ArrayList<String> suggestedFriends = new ArrayList<>();
 			
